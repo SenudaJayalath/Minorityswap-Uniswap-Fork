@@ -9,3 +9,5 @@ Some special features of this application includes,
 
 
 The smart contracts have been deployed to the Kovan test network and tested out.
+
+code explanation vedio - https://www.canva.com/design/DAEpK7DVOIg/share/preview?token=YAYh2MrpFNbVY0nMpOgeWg&role=EDITOR&utm_content=DAEpK7DVOIg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
