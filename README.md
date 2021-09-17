@@ -1,6 +1,6 @@
 # Minorityswap-Uniswap-Fork
 
-##This is a folk of Uniswap
+## This is a folk of Uniswap
 
 Some special features of this application includes,
 
